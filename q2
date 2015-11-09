@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words.
+The upstream remote is usually used for a clone to test and edit commits to an origin, while still staying compartmentalized.
